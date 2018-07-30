@@ -8,4 +8,6 @@ Finally, normalization of data by correct factor is so crucial, here it was so s
 
 2.DATA SOURCE :- google 
 
+3.VISUALIZATION :-  Matplot has been used for the visualization of the data. Function "Customplot"
+is the key, which iterates over the runs and innings array and give us graphs about evry player, which also reduce lot of codes, and will be really helpfull and usefull, with the increasing size of arrays.
 
